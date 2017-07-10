@@ -389,7 +389,7 @@
     "admin357 มือปืนรับจ้าง": {
       "settings": {
         "main": true,
-        "title": "แดงอุทัย มือปืนรับจ้าง|รับงานฆ่าคน กระทืบคน|กทม,ทั่วประเทศไทย",
+        "title": "ซุ้มมือปืนรับจ้างadmin357|รับงานฆ่าคน กระทืบคน|กทม,ทั่วประเทศไทย",
         "meta_descr": "รับจ้างฆ่าคน รับงานกระทืบคนและตบคนในเขตกรุงเทพและต่างจังหวัด,thailand โดยซุ้มadmin357ซุ้มมือปืนดีที่สุด มือปืนชื่ดังทำงานจริง ไม่ซัดทอดคนจ้าง.",
         "header_custom": "",
         "footer_custom": "",
@@ -404,7 +404,9 @@
               "font-size": "20px"
             },
             ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
+              "color": "#a0a0a0",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           },
           "_tags": [
@@ -433,8 +435,8 @@
             "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
-          "title": "รับจ้างกระทืบคน รับจ้างฆ่าคน รับงานออนไลน์",
-          "text": "Cut down the development time with drag-and-drop website builder."
+          "title": "สำหรับติดต่อจ้างกระทืบคนและรับจ้างฆ่าคน ในประเทศไทย.",
+          "text": "ลดเวลาในการค้นหา \"มือปืน รับจ้างฆ่าคน รับจ้างกระทืบคน\"ได้ง่ายและดีที่สุด."
         },
         {
           "_inherit": "msg-box5",
