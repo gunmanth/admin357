@@ -454,7 +454,9 @@
               "color": "#fff"
             },
             "H3": {
-              "font-size": "36px"
+              "font-size": "36px",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
           },
           "_tags": [
@@ -505,8 +507,8 @@
               "size": 250
             }
           },
-          "title": "FULL WIDTH INTRO",
-          "text": "Full width intro with adjustable height, background image, parallax effect and a video section. Note that paddings are extended here.",
+          "title": "ซุ้มมือปืน admin357.com",
+          "text": "เว็บไซต์จ้างกระทืบคน และจ้างฆ่าคนผ่านทางไลน์ไอดี admin357.com. <br>โดยนักฆ่ามืออาชีพ มีประสบการณ์สังหารคนโดยไม่ทิ้งหลักฐาน.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
