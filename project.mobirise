@@ -1,7 +1,7 @@
 {
   "settings": {
-    "currentPage": "admin357 มือปืนรับจ้าง",
-    "name": "รับจ้างฆ่าคน รับจ้างกระทืบคน|กรุงเทพ,ไทย",
+    "currentPage": "รับจ้างฆ่าคน.html",
+    "name": "มือปืนรับจ้าง Line id admin357.com",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -27,14 +27,14 @@
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "",
-    "google-analytics": "<b:if cond='data:blog.url == &quot;https://gunmanth.github.io/admin357/admin357%20%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%9B%E0%B8%B7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%87.html&quot;'>\r\n <meta name=\"keywords\" content=\"รับจ้าง,ฆ่าคน,กระทืบคน,ซ้อมคน,ตบคน,ชกคน,ทำร้ายคน,มือปืน,หามือปืน,จ้างมือปืน,ติดต่อมือปืน,ซุ้มมือปืน,วิธีฆ่าคน,ยิงคน,เก็บคน,ลอบฆ่าคน,กำจัดชู้,นักสืบ,กรุงเทพ,กทม,ชลบุรี,เชียงใหม่,โคราช,admin357.com,2017\"/></b:if>",
+    "google-analytics": "<b:if cond='data:blog.url == \"https://gunmanth.github.io/admin357/admin357%20%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%9B%E0%B8%B7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%87.html\"'>\r\n <meta name=\"keywords\" content=\"รับจ้าง,ฆ่าคน,กระทืบคน,ซ้อมคน,ตบคน,ชกคน,ทำร้ายคน,มือปืน,หามือปืน,จ้างมือปืน,ติดต่อมือปืน,ซุ้มมือปืน,วิธีฆ่าคน,ยิงคน,เก็บคน,ลอบฆ่าคน,กำจัดชู้,นักสืบ,กรุงเทพ,กทม,ชลบุรี,เชียงใหม่,โคราช,admin357.com,2017\"/></b:if>",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
   "pages": {
     "รับจ้างฆ่าคน.html": {
       "settings": {
-        "title": "รับจ้างฆ่าคน| ซุ้มมือปืนadmin357|กทม,th",
+        "title": "รับจ้างฆ่าคน-รับงานยิงคน|ซุ้มมือปืนadmin357|กทม,th",
         "meta_descr": "ซุ้มadmin357(Line id : admin357.com) ซุ้มมือปืน รับงานกระทืบคน รับจ้างซ้อมคนในประเทศไทย เช่น กรุงเทพ,ชลบุรี และต่างจังหวัดโดยมือปืนชื่อดังสังกัดซุ้มadmin357",
         "order": 2
       },
@@ -124,9 +124,9 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/download150x150-128x128.png",
               "height": 128,
-              "alt": "มือปืน admin357.com logo",
+              "alt": "รับจ้างฆ่าคน มือปืน admin357.com logo",
               "link": "",
-              "title": "ซุ้มมือปืน admin357.com",
+              "title": "รับจ้างฆ่าคน Line id admin357.com",
               "linkInNewWindow": true
             },
             "iconFont": {
@@ -146,8 +146,8 @@
     },
     "รับจ้างกระทืบคน.html": {
       "settings": {
-        "title": "จ้างกระทืบคนและรับจ้างซ้อมคน|ซุ้มมือปืนแดงอุทัย|กรุงเทพ,ประเทศไทย",
-        "meta_descr": "ซุ้มadmin357(Line id : admin357.com) มือปืนรับงานในพื้นที่ กทม,และต่างจังหวัด รวดเร็วงานไว้และไม่ซัดทอดคนจ้าง โดยgunman จ้างมือปืนดีที่สุด กรุงเทพ,ประเทศไทย"
+        "title": "รับจ้างกระทืบคน-รับจ้างซ้อมคน|ซุ้มมือ admin357.com|กรุงเทพ,ประเทศไทย",
+        "meta_descr": "ซุ้มadmin357 (Line id : admin357.com) มือปืนรับงานในพื้นที่ กทม,และต่างจังหวัด รวดเร็วงานไว้และไม่ซัดทอดคนจ้าง โดยgunman จ้างมือปืนดีที่สุด กรุงเทพ,ประเทศไทย"
       },
       "components": [
         {
@@ -230,11 +230,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dangunthai-128x128-2.png",
+              "src": "@PROJECT_PATH@/assets/images/download150x150-128x128.png",
               "height": 128,
-              "alt": "dangunthai logo",
-              "link": "https://dangunthai.github.io/gunman-job.html",
-              "title": "ซุ้มมือปืนแดวอุทัย",
+              "alt": "รับจ้างกระทืบคน admin357.com",
+              "link": "",
+              "title": "รับจ้างกระทืบคน Line id admin357.com",
               "linkInNewWindow": true
             },
             "iconFont": {
@@ -267,8 +267,8 @@
     },
     "ติดต่อมือปืน.html": {
       "settings": {
-        "title": "ติดต่อมือปืน จ้างฆ่าคน,กระทืบคน|ซุ้มมือปืนแดงอุทัย| Line id admin357.com",
-        "meta_descr": "หามือปืน จ้างกระทืบคนหรือติดต่องานกับมือปืนดีที่สุดได้ที่นี่ ซุ้มadmin357(Line id : admin357.com) กรุงเทพ ,ไทย"
+        "title": "ติดต่อมือปืน จ้างฆ่าคน,กระทืบคน|ซุ้มมือปืน admin357.com| Line id admin357.com",
+        "meta_descr": "ติดต่องานหามือปืน จ้างมือปืนฆ่าคนและงานกระทืบคนหรือติดต่องานกับมือปืนดีที่สุดได้ที่นี่ ซุ้มadmin357(Line id : admin357.com) กรุงเทพ ,ไทย"
       },
       "components": [
         {
@@ -351,11 +351,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dangunthai-128x128-2.png",
+              "src": "@PROJECT_PATH@/assets/images/download150x150-128x128.png",
               "height": 128,
-              "alt": "dangunthai logo",
-              "link": "https://dangunthai.github.io/gunman-job.html",
-              "title": "ซุ้มมือปืนแดวอุทัย",
+              "alt": "ติดต่อมือปืน จ้างฆ่าคน",
+              "link": "",
+              "title": "ติดต่อมือปืน จ้างฆ่าคน Line id admin357.com",
               "linkInNewWindow": true
             },
             "iconFont": {
@@ -386,7 +386,7 @@
         }
       ]
     },
-    "admin357 มือปืนรับจ้าง": {
+    "รับจ้างฆ่าคน-รับจ้างกระทืบคน-admin357 มือปืนรับจ้าง": {
       "settings": {
         "main": true,
         "title": "ซุ้มมือปืนรับจ้างadmin357|รับงานฆ่าคน กระทืบคน|กทม,ทั่วประเทศไทย",
