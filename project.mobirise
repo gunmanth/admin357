@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "รับจ้างฆ่าคน.html",
+    "currentPage": "ติดต่อมือปืน.html",
     "name": "มือปืนรับจ้าง Line id admin357.com",
     "theme": {
       "name": "mobirise3",
@@ -48,10 +48,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#c1c1c1"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
+              "color": "#c1c1c1",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
               "font-family": "'PT Serif', serif"
             },
@@ -74,7 +74,7 @@
               "background": "#e25041"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#c1c1c1",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -94,7 +94,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#c1c1c1"
             }
           },
           "_tags": [
@@ -103,14 +103,14 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#e25041",
+            "bgColor": "#ffffff",
             "fontSize": "0.95",
             "fontName": {
               "name": "PT Serif",
               "url": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
               "css": "'PT Serif', serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#f70707",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -139,8 +139,8 @@
               "newWindow": false
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ซุ้มมือปืน</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>รับจ้างฆ่าคน</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>รับจ้างตบคน</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\"></span>ติดต่อจ้างงาน</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ซุ้มมือปืน</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"รับจ้างกระทืบคน.html\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>รับจ้างกระทืบคน</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"รับจ้างฆ่าคน.html\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>รับจ้างฆ่าคน</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ติดต่อมือปืน.html\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\"></span>ติดต่อจ้างงาน</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -159,33 +159,33 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#f70707"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#f70707",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
               "font-family": "'PT Serif', serif"
             },
             ".link": {
-              "font-size": "0.95rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#d03020"
+              "background": "#1b044f"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#e04434!important"
+              "background": "#260571!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#e25041"
+              "background": "#2b0680"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#f70707",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -205,20 +205,20 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#f70707"
             }
           },
           "_name": "menu",
           "_anchor": "menu-7",
           "_params": {
-            "bgColor": "#e25041",
+            "bgColor": "#ffffff",
             "fontSize": "0.95",
             "fontName": {
               "name": "PT Serif",
               "url": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
               "css": "'PT Serif', serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#f70707",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -243,8 +243,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ซุ้มมือปืน</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>รับจ้างฆ่าคน</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>รับจ้างตบคน</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\"></span>ติดต่อจ้างงาน</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ซุ้มมือปืน</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"รับจ้างกระทืบคน.html\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>รับจ้างกระทืบคน</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"รับจ้างฆ่าคน.html\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>รับจ้างฆ่าคน</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ติดต่อมือปืน.html\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\"></span>ติดต่อจ้างงาน</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -280,10 +280,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#f70707"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#f70707",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
               "font-family": "'PT Serif', serif"
             },
@@ -297,16 +297,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#d03020"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#e04434!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#e25041"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#f70707",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -326,20 +326,20 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#f70707"
             }
           },
           "_name": "menu",
           "_anchor": "menu-9",
           "_params": {
-            "bgColor": "#e25041",
+            "bgColor": "#ffffff",
             "fontSize": "0.95",
             "fontName": {
               "name": "PT Serif",
               "url": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
               "css": "'PT Serif', serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#f70707",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -364,8 +364,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ซุ้มมือปืน</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>รับจ้างฆ่าคน</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>รับจ้างตบคน</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\"></span>ติดต่อจ้างงาน</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ซุ้มมือปืน</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"รับจ้างกระทืบคน.html\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>รับจ้างกระทืบคน</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"รับจ้างฆ่าคน.html\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>รับจ้างฆ่าคน</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ติดต่อมือปืน.html\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\"></span>ติดต่อจ้างงาน</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -509,10 +509,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#c1c1c1"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#c1c1c1",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
               "font-family": "'PT Serif', serif"
             },
@@ -535,7 +535,7 @@
               "background": "#e25041"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#c1c1c1",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -555,20 +555,20 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#c1c1c1"
             }
           },
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#e25041",
+            "bgColor": "#ffffff",
             "fontSize": "0.95",
             "fontName": {
               "name": "PT Serif",
               "url": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
               "css": "'PT Serif', serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#f70707",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -593,8 +593,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ซุ้มมือปืน</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>รับจ้างฆ่าคน</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>รับจ้างตบคน</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\"></span>ติดต่อจ้างงาน</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ซุ้มมือปืน</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"รับจ้างกระทืบคน.html\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>รับจ้างกระทืบคน</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"รับจ้างฆ่าคน.html\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>รับจ้างฆ่าคน</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ติดต่อมือปืน.html\"><span class=\"mbri-chat mbr-iconfont mbr-iconfont-btn\"></span>ติดต่อจ้างงาน</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
