@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 26,
+    "uniqCompNum": 27,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -441,7 +441,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"http://line.me/ti/p/dprSebN7YB\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-line mbr-iconfont mbr-iconfont-btn\"></span>Line id admin357.com</a>    ",
           "title": "สำหรับติดต่อจ้างกระทืบคนและรับจ้างฆ่าคน ในประเทศไทย.",
-          "text": "ลดเวลาในการค้นหา \"มือปืน รับจ้างฆ่าคน รับจ้างกระทืบคน\"ได้ง่ายและดีที่สุด."
+          "text": "<b>ลดเวลาในการค้นหา \"มือปืน รับจ้างฆ่าคน รับจ้างกระทืบคน\"ได้ง่ายและดีที่สุด.</b>"
         },
         {
           "_inherit": "msg-box5",
@@ -675,19 +675,28 @@
           "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
         },
         {
-          "_inherit": "features3",
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#f2f2f2",
+              "border-color": "#f2f2f2"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "features6",
-          "_anchor": "features6-o",
+          "_name": "features4",
+          "_anchor": "features4-q",
           "_params": {
+            "iconsBgColor": "#f2f2f2",
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -696,20 +705,21 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": 4,
+            "columns": 3,
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": false,
+            "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "iconFont": {
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "desktop",
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "phone",
               "link": "https://mobirise.com",
               "size": 0,
+              "color": "black",
               "family": "et-line"
             }
           },
@@ -720,10 +730,11 @@
           "media2": {
             "iconFont": {
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "mobile",
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit",
               "link": "https://mobirise.com",
               "size": 0,
+              "color": "black",
               "family": "et-line"
             }
           },
@@ -734,10 +745,11 @@
           "media3": {
             "iconFont": {
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "pencil",
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
               "link": "https://mobirise.com",
               "size": 0,
+              "color": "black",
               "family": "et-line"
             }
           },
@@ -748,10 +760,11 @@
           "media4": {
             "iconFont": {
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "global",
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
               "link": "https://mobirise.com",
               "size": 0,
+              "color": "black",
               "family": "et-line"
             }
           },
@@ -762,10 +775,11 @@
           "media5": {
             "iconFont": {
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "global",
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
               "link": "https://mobirise.com",
               "size": 0,
+              "color": "black",
               "family": "et-line"
             }
           },
@@ -776,10 +790,11 @@
           "media6": {
             "iconFont": {
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "global",
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
               "link": "https://mobirise.com",
               "size": 0,
+              "color": "black",
               "family": "et-line"
             }
           },
@@ -787,54 +802,6 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header2",
-          "_anchor": "header2-p",
-          "_params": {
-            "imageSize": 50,
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.3,
-            "overlayColor": "#000",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "INTRO WITH IMAGE",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
     }
