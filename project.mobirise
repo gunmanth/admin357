@@ -407,6 +407,11 @@
               "color": "#a0a0a0",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
+              "font-size": "13px"
             }
           },
           "_tags": [
@@ -420,7 +425,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#03051d",
+            "bgColor": "#2e2f3b",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -434,7 +439,7 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"http://line.me/ti/p/dprSebN7YB\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-line mbr-iconfont mbr-iconfont-btn\"></span>Line id admin357.com</a>    ",
           "title": "สำหรับติดต่อจ้างกระทืบคนและรับจ้างฆ่าคน ในประเทศไทย.",
           "text": "ลดเวลาในการค้นหา \"มือปืน รับจ้างฆ่าคน รับจ้างกระทืบคน\"ได้ง่ายและดีที่สุด."
         },
@@ -506,7 +511,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "20px"
             },
             ".navbar-toggler": {
               "color": "#f70707"
@@ -517,10 +523,10 @@
               "font-family": "'PT Serif', serif"
             },
             ".link": {
-              "font-size": "0.95rem"
+              "font-size": "1.1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
+              "font-size": "1.191rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -562,7 +568,7 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "0.95",
+            "fontSize": "1.1",
             "fontName": {
               "name": "PT Serif",
               "url": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
