@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "ติดต่อมือปืน.html",
+    "currentPage": "admin357 มือปืนรับจ้าง",
     "name": "รับจ้างฆ่าคน รับจ้างกระทืบคน|กรุงเทพ,ไทย",
     "theme": {
       "name": "mobirise3",
@@ -24,7 +24,7 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 12,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/download150x150-128x128.png",
+    "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "",
     "google-analytics": "",
