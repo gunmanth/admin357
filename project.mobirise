@@ -412,6 +412,10 @@
               "font-family": "'PT Serif', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
               "font-size": "13px"
+            },
+            ".mbr-section-subtitle B": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_tags": [

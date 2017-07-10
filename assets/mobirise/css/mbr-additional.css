@@ -3,6 +3,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 
 
@@ -628,6 +629,7 @@ h6,
 
 
 
+
 #msg-box2-e .mbr-section-title {
   color: #fff;
   font-size: 20px;
@@ -639,6 +641,9 @@ h6,
 #msg-box2-e .btn {
   font-family: 'PT Serif', serif;
   font-size: 13px;
+}
+#msg-box2-e .mbr-section-subtitle B {
+  font-family: 'Oswald', sans-serif;
 }
 #msg-box7-j .mbr-section-title,
 #msg-box7-j .lead p {
