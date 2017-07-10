@@ -425,11 +425,11 @@ h6,
   color: #ffffff;
 }
 #menu-0 .navbar-toggler {
-  color: #000000;
+  color: #ffffff;
 }
 #menu-0 .link,
 #menu-0 .dropdown-item {
-  color: #000000;
+  color: #ffffff;
   font-family: 'PT Serif', serif;
 }
 #menu-0 .link {
@@ -462,7 +462,7 @@ h6,
   background: #e25041;
 }
 #menu-0 .bg-color.transparent .link {
-  color: #000000;
+  color: #ffffff;
   transition: none;
 }
 #menu-0 .bg-color.transparent.opened .link {
@@ -474,7 +474,7 @@ h6,
 }
 #menu-0 .link[aria-expanded="true"],
 #menu-0 .dropdown-item[aria-expanded="true"] {
-  color: #000000!important;
+  color: #ffffff!important;
 }
 #menu-0.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
@@ -484,7 +484,7 @@ h6,
 }
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
-  background-color: #000000;
+  background-color: #ffffff;
 }
 
 #menu-7 .hide-buttons .nav-btn {
@@ -494,11 +494,11 @@ h6,
   color: #ffffff;
 }
 #menu-7 .navbar-toggler {
-  color: #000000;
+  color: #ffffff;
 }
 #menu-7 .link,
 #menu-7 .dropdown-item {
-  color: #000000;
+  color: #ffffff;
   font-family: 'PT Serif', serif;
 }
 #menu-7 .link {
@@ -531,7 +531,7 @@ h6,
   background: #e25041;
 }
 #menu-7 .bg-color.transparent .link {
-  color: #000000;
+  color: #ffffff;
   transition: none;
 }
 #menu-7 .bg-color.transparent.opened .link {
@@ -543,7 +543,7 @@ h6,
 }
 #menu-7 .link[aria-expanded="true"],
 #menu-7 .dropdown-item[aria-expanded="true"] {
-  color: #000000!important;
+  color: #ffffff!important;
 }
 #menu-7.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
@@ -553,7 +553,7 @@ h6,
 }
 #menu-7 .close-icon::before,
 #menu-7 .close-icon::after {
-  background-color: #000000;
+  background-color: #ffffff;
 }
 
 #menu-9 .hide-buttons .nav-btn {
@@ -563,11 +563,11 @@ h6,
   color: #ffffff;
 }
 #menu-9 .navbar-toggler {
-  color: #000000;
+  color: #ffffff;
 }
 #menu-9 .link,
 #menu-9 .dropdown-item {
-  color: #000000;
+  color: #ffffff;
   font-family: 'PT Serif', serif;
 }
 #menu-9 .link {
@@ -600,7 +600,7 @@ h6,
   background: #e25041;
 }
 #menu-9 .bg-color.transparent .link {
-  color: #000000;
+  color: #ffffff;
   transition: none;
 }
 #menu-9 .bg-color.transparent.opened .link {
@@ -612,7 +612,7 @@ h6,
 }
 #menu-9 .link[aria-expanded="true"],
 #menu-9 .dropdown-item[aria-expanded="true"] {
-  color: #000000!important;
+  color: #ffffff!important;
 }
 #menu-9.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
@@ -622,7 +622,7 @@ h6,
 }
 #menu-9 .close-icon::before,
 #menu-9 .close-icon::after {
-  background-color: #000000;
+  background-color: #ffffff;
 }
 
 

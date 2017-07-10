@@ -22,12 +22,12 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 21,
+    "uniqCompNum": 23,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "",
-    "google-analytics": "",
+    "google-analytics": "<article>\r\n    <h2>tantais มือปืน</h2>\r\n    <p>มือปืนรับจ้าง ให้บริการฆ่าคนในพื้นที่กรุงเทพ,ต่างจังหวัด โดยซุ้มมือปืนอันดับ1</p>\r\n    <section>\r\n        <h3>จ้างฆ่าคน,จ้างยิงคน</h3>\r\n        <p>รับจ้างฆ่าคน,รับจ้างเก็บคน,รับจ้างยิงคน,ลอบสังหาร  เว็บไซต์จ้างมือปืนที่ดีที่สุด</p>\r\n    </section>\r\n    <section>\r\n        <h3>ติดต่อเรา</h3>\r\n        <p>คุณสามารถติดต่อจ้างงานกับเราได้ที่ line id : tantais เป็นวิธีที่ปลอดภัยแล้วง่ายที่สุด</p>\r\n    </section>\r\n</article>",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -48,10 +48,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
+              "color": "#ffffff",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
               "font-family": "'PT Serif', serif"
             },
@@ -74,7 +74,7 @@
               "background": "#e25041"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -84,7 +84,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#ffffff!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -94,7 +94,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             }
           },
           "_tags": [
@@ -159,10 +159,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
+              "color": "#ffffff",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
               "font-family": "'PT Serif', serif"
             },
@@ -185,7 +185,7 @@
               "background": "#e25041"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -195,7 +195,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#ffffff!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -205,7 +205,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             }
           },
           "_name": "menu",
@@ -280,10 +280,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
+              "color": "#ffffff",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
               "font-family": "'PT Serif', serif"
             },
@@ -306,7 +306,7 @@
               "background": "#e25041"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -316,7 +316,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#ffffff!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -326,7 +326,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             }
           },
           "_name": "menu",
@@ -454,7 +454,7 @@
           "_name": "msg-box7",
           "_anchor": "msg-box7-j",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "36",
             "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
@@ -467,7 +467,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlayOpacity": "0.6",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -821,6 +821,35 @@
           "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
           "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
           "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-l",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "FULL SCREEN INTRO",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         }
       ]
     }
