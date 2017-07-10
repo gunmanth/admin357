@@ -649,11 +649,11 @@ h6,
   color: #ffffff;
 }
 #menu-0 .navbar-toggler {
-  color: #c1c1c1;
+  color: #f70707;
 }
 #menu-0 .link,
 #menu-0 .dropdown-item {
-  color: #c1c1c1;
+  color: #f70707;
   font-family: 'PT Serif', serif;
 }
 #menu-0 .link {
@@ -671,22 +671,22 @@ h6,
 }
 #menu-0 .link[aria-expanded="true"],
 #menu-0 .dropdown-menu {
-  background: #d03020;
+  background: #e6e6e6;
 }
 #menu-0 .nav-dropdown-sm .link:focus,
 #menu-0 .nav-dropdown-sm .link:hover,
 #menu-0 .nav-dropdown-sm .dropdown-item:focus,
 #menu-0 .nav-dropdown-sm .dropdown-item:hover {
-  background: #e04434!important;
+  background: #f7f7f7!important;
 }
 #menu-0 .navbar,
 #menu-0 .nav-dropdown-sm,
 #menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-0 .nav-dropdown-sm .dropdown-menu {
-  background: #e25041;
+  background: #ffffff;
 }
 #menu-0 .bg-color.transparent .link {
-  color: #c1c1c1;
+  color: #f70707;
   transition: none;
 }
 #menu-0 .bg-color.transparent.opened .link {
@@ -708,7 +708,7 @@ h6,
 }
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
-  background-color: #c1c1c1;
+  background-color: #f70707;
 }
 #header5-4 .mbr-section-title {
   color: #000;
