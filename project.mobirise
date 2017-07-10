@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "admin357 มือปืนรับจ้าง",
+    "currentPage": "รับจ้างฆ่าคน.html",
     "name": "รับจ้างฆ่าคน รับจ้างกระทืบคน|กรุงเทพ,ไทย",
     "theme": {
       "name": "mobirise3",
@@ -122,11 +122,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dangunthai-128x128-2.png",
+              "src": "@PROJECT_PATH@/assets/images/download150x150-128x128.png",
               "height": 128,
-              "alt": "dangunthai logo",
-              "link": "https://dangunthai.github.io/gunman-job.html",
-              "title": "ซุ้มมือปืนแดวอุทัย",
+              "alt": "มือปืน admin357.com logo",
+              "link": "",
+              "title": "ซุ้มมือปืน admin357.com",
               "linkInNewWindow": true
             },
             "iconFont": {
