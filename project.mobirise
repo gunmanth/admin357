@@ -27,7 +27,7 @@
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "",
-    "google-analytics": "<b:if cond='data:blog.url == \"https://gunmanth.github.io/admin357/admin357%20%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%9B%E0%B8%B7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%87.html\"'>\r\n <meta name=\"keywords\" content=\"รับจ้าง,ฆ่าคน,กระทืบคน,ซ้อมคน,ตบคน,ชกคน,ทำร้ายคน,มือปืน,หามือปืน,จ้างมือปืน,ติดต่อมือปืน,ซุ้มมือปืน,วิธีฆ่าคน,ยิงคน,เก็บคน,ลอบฆ่าคน,กำจัดชู้,นักสืบ,กรุงเทพ,กทม,ชลบุรี,เชียงใหม่,โคราช,admin357.com,2017\"/> <link rel=\"canonical\" href=\"https://gunmanth.github.io/admin357/รับจ้างฆ่าคน-รับจ้างกระทืบคน-admin357%20มือปืนรับจ้าง.html \" />\r\n<link rel=\"publisher\" href=\"https://plus.google.com/u/3/115122544701403859949\"/>\r\n<meta property=\"og:locale\" content=\"th_TH\" />\r\n<meta property=\"og:type\" content=\"object\" />\r\n<meta property=\"og:title\" content=\" มือปืน Line ID : admin357.com - รับจ้างฆ่าคน-กรุงเทพมหานคร,ไทย\" />\r\n<meta property=\"og:url\" content=\"https://gunmanth.github.io/admin357/รับจ้างฆ่าคน-รับจ้างกระทืบคน-admin357%20มือปืนรับจ้าง.html\" />\r\n<meta property=\"og:site_name\" content=\"รับจ้างฆ่าคน-กระทืบคน โดยมือปืน admin357กทม,และต่างจังหวัด\" /><meta content='TH' name='country' /><meta content='global' name='distribution' />\r\n<meta content='2 days' name='revisit-after' />\r\n<meta name=\"Rating\" content=\"general\" />\r\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\r\n<meta http-equiv=\"Cache-Control\" content=\"no-store\" />\r\n<meta http-equiv=\"Expires\" content=\"0\" />\r\n<meta content='index, follow' name='googlebot' />\r\n<meta content='follow, all' name='Googlebot-Image' />\r\n<meta content='follow, all' name='msnbot' />\r\n<meta content='follow, all' name='Slurp' />\r\n<meta content='follow, all' name='ZyBorg' />\r\n<meta content='follow, all' name='Scooter' />\r\n<meta content='all' name='spiders' />\r\n<meta content='all' name='WEBCRAWLERS' /></b:if>",
+    "google-analytics": "<b:if cond='data:blog.url == \"https://gunmanth.github.io/admin357/admin357%20%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%9B%E0%B8%B7%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%87.html\"'/>\r\n <meta name=\"keywords\" content=\"รับจ้าง,ฆ่าคน,กระทืบคน,ซ้อมคน,ตบคน,ชกคน,ทำร้ายคน,มือปืน,หามือปืน,จ้างมือปืน,ติดต่อมือปืน,ซุ้มมือปืน,วิธีฆ่าคน,ยิงคน,เก็บคน,ลอบฆ่าคน,กำจัดชู้,นักสืบ,กรุงเทพ,กทม,ชลบุรี,เชียงใหม่,โคราช,admin357.com,2017\"/> <link rel=\"canonical\" href=\"https://gunmanth.github.io/admin357/รับจ้างฆ่าคน-รับจ้างกระทืบคน-admin357%20มือปืนรับจ้าง.html \" />\r\n<link rel=\"publisher\" href=\"https://plus.google.com/u/3/115122544701403859949\"/>\r\n<meta property=\"og:locale\" content=\"th_TH\" />\r\n<meta property=\"og:type\" content=\"object\" />\r\n<meta property=\"og:title\" content=\" มือปืน Line ID : admin357.com - รับจ้างฆ่าคน-กรุงเทพมหานคร,ไทย\" />\r\n<meta property=\"og:url\" content=\"https://gunmanth.github.io/admin357/รับจ้างฆ่าคน-รับจ้างกระทืบคน-admin357%20มือปืนรับจ้าง.html\" />\r\n<meta property=\"og:site_name\" content=\"รับจ้างฆ่าคน-กระทืบคน โดยมือปืน admin357กทม,และต่างจังหวัด\" /><meta content='TH' name='country' /><meta content='global' name='distribution' />\r\n<meta content='2 days' name='revisit-after' />\r\n<meta name=\"Rating\" content=\"general\" />\r\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\r\n<meta http-equiv=\"Cache-Control\" content=\"no-store\" />\r\n<meta http-equiv=\"Expires\" content=\"0\" />\r\n<meta content='index, follow' name='googlebot' />\r\n<meta content='follow, all' name='Googlebot-Image' />\r\n<meta content='follow, all' name='msnbot' />\r\n<meta content='follow, all' name='Slurp' />\r\n<meta content='follow, all' name='ZyBorg' />\r\n<meta content='follow, all' name='Scooter' />\r\n<meta content='all' name='spiders' />\r\n<meta content='all' name='WEBCRAWLERS' /></b:if>",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -630,7 +630,7 @@
               "text-align": "left"
             },
             ".mbr-section-lead": {
-              "color": "#9c9a9a"
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -658,7 +658,7 @@
             "showButtons": false
           },
           "title": "รับจ้างกระทืบคน กทม.",
-          "text": "Full screen intro with color background.<br>Buttons, text and title are aligned to the left.",
+          "text": "Full screen intro with color background. d<br>Buttons, text and title are aligned to the left.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
         {
@@ -811,10 +811,10 @@
           "_name": "facebook-comments-block",
           "_anchor": "facebook-comments-block-6",
           "_params": {
-            "postsNumber": "4",
+            "postsNumber": "3",
             "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
             "bgImageRadio": false,
-            "bgColor": "#cccccc",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.6,
@@ -827,35 +827,6 @@
           "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
           "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
           "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-l",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "title": "FULL SCREEN INTRO",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         }
       ]
     }
