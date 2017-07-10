@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 
 
 
@@ -688,7 +689,9 @@ h6,
 }
 #header5-4 .mbr-section-title {
   color: #000;
-  font-family: 'PT Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 60px;
+  text-align: left;
 }
 #header5-4 .mbr-section-lead {
   color: #9c9a9a;
@@ -699,4 +702,10 @@ h6,
 #features4-b .iconbox {
   background-color: #f2f2f2;
   border-color: #f2f2f2;
+}
+#msg-box2-e .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-e .mbr-section-subtitle {
+  color: #a0a0a0;
 }
